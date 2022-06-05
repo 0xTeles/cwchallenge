@@ -5,9 +5,11 @@ Resolution for the CW challenge technical assessment.
 ## Tasks 
 
 - [x] Create new repository with vulnerable code.
-- [ ] Configure and enable Dependabot
-- [ ] Create script to get Dependabot alerts.
-- [ ] Integrate Dependabot with Discord. 
+- [x] Configure and enable Dependabot
+- [x] Create script to get Dependabot alerts.
+- [ ] Display alerts on friendly way.
+- [x] Integrate Dependabot with Discord.
+- [ ] Integrate Dependabot with Github Actions. 
 
 ---------------------------------------
 
