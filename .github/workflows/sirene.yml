@@ -10,3 +10,4 @@ jobs:
         with:
           TOKEN: ${{ secrets.TOKEN }}
           WEBHOOK: ${{ secrets.WEBHOOK }}
+          MODE: ${{ secrets.MODE }}
