@@ -8,5 +8,5 @@ jobs:
     steps:
       - uses: 0xTeles/GetDependaBotAlert@stable
         with:
-          token: ${{ secrets.TOKEN }}
-          slack_webhook: ${{ secrets.WEBHOOK }}
+          TOKEN: ${{ secrets.TOKEN }}
+          WEBHOOK: ${{ secrets.WEBHOOK }}
