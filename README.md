@@ -9,7 +9,7 @@ Resolution for the CW challenge technical assessment.
 - [x] Create script to get Dependabot alerts.
 - [x] Display alerts on friendly way.
 - [x] Integrate Dependabot with Discord.
-- [ ] Integrate Dependabot with Github Actions. 
+- [x] Integrate Dependabot with Github Actions. 
 
 ---------------------------------------
 
